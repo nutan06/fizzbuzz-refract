@@ -1,0 +1,22 @@
+#main{
+	margin: 0 auto;
+	font-family: arial;
+	color: #999999;
+	text-align:center;
+}
+li{
+	list-style: none;
+}
+#inputnumber{
+	width:25%;
+	height: 40px;
+	border-radius:5px;
+	color:#333333;
+	text-align:center;
+	font-weight: 600;
+	font-style: italic;
+}
+.errormessage{
+	color:#000000;
+	font-weight:500;
+}
